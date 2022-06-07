@@ -1,0 +1,115 @@
+{
+  "projets": [
+    {
+      "nom": "Youmi",
+      "description": "Jeu en multijoueur local où les joueurs contrôlent des personnages différents. Le but est de finir chaque niveau avant la fin du temps imposé.",
+      "date": 2020,
+      "collaboration": null,
+      "lien_voir": null, 
+      "lien_télécharger": "https://mr-alexandre.itch.io/youmi", 
+      "image": "Youmi.jpg",
+      "langage": ["Unity", "CSharp"]
+    },
+    {
+      "nom": "Traitement d'images",
+      "description": "Logiciel qui permet de flouter une image en choisissant le niveau d'intensité du flou et la partie d'image qui doit être flouter.",
+      "date": 2021,
+      "collaboration": "Théo ECKSTEIN",
+      "lien_voir": null, 
+      "lien_télécharger": null, 
+      "image": "Traitement_Image.jpg",
+      "langage": ["Python"]
+    },
+    {
+      "nom": "Mots de passe",
+      "description": "Générateur de mots de passe aléatoires et sécurisés qui respectent des critères imposés par l'utilisateur.",
+      "date": 2021,
+      "collaboration": null,
+      "lien_voir": null, 
+      "lien_télécharger": null,
+      "image": "Mot_de_passe.jpg",
+      "langage": ["Python"]
+    },
+    {
+      "nom": "Puissance 4",
+      "description": "Reproduction du jeu Puissance 4 avec une identité graphique revisitée.",
+      "date": 2021,
+      "collaboration": "Théo ECKSTEIN",
+      "lien_voir": null, 
+      "lien_télécharger": null, 
+      "image": "Puissance_4.jpg",
+      "langage": ["Python"]
+    },
+    {
+      "nom": "Portfolio",
+      "description": "Site Web qui regroupe toutes mes créations numériques (jeux, logiciels et sites Web) que j'ai créé ces dernières années en utilisant de nombreux outils.",
+      "date": 2021,
+      "collaboration": null,
+      "lien_voir": null, 
+      "lien_télécharger": null, 
+      "image": "Portfolio.jpg",
+      "langage": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "nom": "Calculatrice",
+      "description": "Calculatrice qui possède les fonctionnalitées primordiales avec un design qui suit le courant du néomorphisme.",
+      "date": 2021,
+      "collaboration": null,
+      "lien_voir": null, 
+      "lien_télécharger": null, 
+      "image": "Calculatrice.jpg",
+      "langage": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "nom": "Horloge",
+      "description": "Horloge qui affiche l'heure actuelle dans le navigateur grâce aux aiguilles ou à l'affichage digital.",
+      "date": 2021,
+      "collaboration": null,
+      "lien_voir": null, 
+      "lien_télécharger": null, 
+      "image": "Horloge.jpg",
+      "langage": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "nom": "To do",
+      "description": "Application qui permet de planifier ses tâches en les triant en plusieurs catégories distinctes. Le but est d'être plus productif au quotidien.",
+      "date": 2021,
+      "collaboration": null,
+      "lien_voir": null, 
+      "lien_télécharger": null, 
+      "image": "To_do.jpg",
+      "langage": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "nom": "Uno",
+      "description": "Reproduction du jeu de cartes Uno afin de pouvoir jouer seul contre des ordinateurs.",
+      "date": 2021,
+      "collaboration": "Théo ECKSTEIN",
+      "lien_voir": null, 
+      "lien_télécharger": null, 
+      "image": "Uno.jpg",
+      "langage": ["Python"]
+    },
+    {
+      "nom": "Alexflix",
+      "description": null,
+      "date": 2022,
+      "collaboration": null,
+      "lien_voir": "https://6alexandre7.github.io/Alexflix/", 
+      "lien_télécharger": null, 
+      "image": "Vignette_Projet.jpg",
+      "langage": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "nom": "CrypTaux",
+      "description": "Plateforme en ligne permettant de consulter en temps réel le cours, la capitalisation boursière et les graphiques de plus de 13000 crypto-monnaies.",
+      "date": 2022,
+      "collaboration": "Théo ECKSTEIN",
+      "lien_voir": "http://194.214.233.234/thalex/cryptaux/connexion.php", 
+      "lien_télécharger": null, 
+      "image": "CrypTaux.jpg",
+      "langage": ["PHP", "CSS", "Javascript", "MariaDB", "Chart.js"]
+    }
+
+  ]
+}

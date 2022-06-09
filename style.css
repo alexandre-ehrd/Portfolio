@@ -105,6 +105,47 @@ header nav {
     justify-content: space-between;
 }
 
+#hamburger {
+    width: 40px;
+    height: 30px;
+    cursor: pointer;
+    position: relative;
+}
+
+#hamburger > div {
+    min-width: 100%;
+    min-height: 5px;
+    background-color: var(--color-pink);
+    border-radius: 5px;
+    position: absolute;
+    transition: all 200ms;
+}
+
+
+
+#first-bar {
+    top: 0;
+}
+#second-bar {
+    top: 50%;
+    transform: translateY(-50%);
+}
+#third-bar {
+    bottom: 0;
+}
+
+#hamburger:hover #first-bar {
+    top: 50%;
+    transform: translateY(-50%) rotateZ(45deg);
+}
+#hamburger:hover #second-bar {
+    background-color: transparent;
+}
+#hamburger:hover #third-bar {
+    bottom: 50%;
+    transform: translateY(50%) rotateZ(-45deg) ;
+}
+
 header nav ul {
     min-width: max-content;
     display: flex;

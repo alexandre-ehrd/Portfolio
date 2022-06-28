@@ -23,8 +23,6 @@ fetch("data.json")
 					text.innerHTML = datefirst;
 					projects_container.appendChild(text);
 				}
-
-				console.log(data['projets'][i])
 				Create_Projet(data['projets'][i]);
 			}
 	  })

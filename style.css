@@ -87,7 +87,6 @@ a {
     gap: 10px;
 }
 
-
 header {
     width: 100%;
     height: var(--height-header);
@@ -99,7 +98,6 @@ header {
     position: fixed;
     transition: max-height 2000ms;
 }
-
 
 header nav {
     min-height: 100%;
@@ -115,12 +113,6 @@ header nav ul {
     gap: var(--padding-large);
     list-style: none;
 }
-
-
-
-
-
-
 
 #hamburger {
     width: 40px;
@@ -192,8 +184,8 @@ header nav ul {
 }
 
 .content-wrapper {
-    padding: var(--padding) var(--padding-large);
-    padding-top: var(--height-header);
+    padding: var(--padding-large);
+    padding-top: calc( var(--height-header) + var(--padding-large) );
     margin-bottom: var(--padding-footer);
     display: flex;
     flex-direction: column;
@@ -215,7 +207,6 @@ header nav ul {
     background-color: rgba(125, 125, 125, .25);
     display: none;
 }
-
 #blur.active {
     display: block;
 }
@@ -324,12 +315,8 @@ header nav ul {
     border-radius: var(--border-radius-small);
     position: sticky;
     top: 150px;
-    color: white;
+    color: var(--color-white);
 }
-
-
-
-
 
 
 
@@ -383,7 +370,7 @@ header nav ul {
         text-align: center;
     }
     header nav ul {
-        display: none;
+        visibility: hidden;
         flex-direction: column;
     }
     header nav ul li {
@@ -401,7 +388,9 @@ header nav ul {
         gap: var(--padding-large);
     }
 
+
     header.open nav ul {
+        visibility: visible;
         display: flex;
         gap: var(--padding);
     }

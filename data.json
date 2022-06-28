@@ -92,12 +92,12 @@
     },
     {
       "nom": "Alexflix",
-      "description": null,
+      "description": "Reproduction du site Netflix qui est un pour apprendre à utiliser des API. Des films et des séries tendances sont mis en avant.",
       "date": 2022,
       "collaboration": null,
       "lien_voir": "https://6alexandre7.github.io/Alexflix/", 
       "lien_télécharger": null, 
-      "image": "Vignette_Projet.jpg",
+      "image": "Alexflix.png",
       "langage": ["HTML", "CSS", "Javascript"]
     },
     {

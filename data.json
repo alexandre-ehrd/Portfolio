@@ -124,8 +124,8 @@
       "nom": "Pacman",
       "description": "Reproduction du jeu Pacman en ajoutant la possibilité de jouer à deux en multijoueur local.",
       "date": 2022,
-      "collaboration": "",
-      "lien_voir": "", 
+      "collaboration": null,
+      "lien_voir": null, 
       "lien_télécharger": null, 
       "image": "Vignette_projet.jpg",
       "langage": ["Unity", "CSharp"]
@@ -134,8 +134,8 @@
       "nom": "Tombola",
       "description": "Site web qui permet d'enregistrer des participants à une tombola et de pouvoir déterminer un gagnant.",
       "date": 2022,
-      "collaboration": "Théo ECKSTEIN",
-      "lien_voir": "", 
+      "collaboration": null,
+      "lien_voir": null, 
       "lien_télécharger": null, 
       "image": "Vignette_projet.jpg",
       "langage": ["HTML", "PHP", "CSS", "Javascript", "MariaDB"]

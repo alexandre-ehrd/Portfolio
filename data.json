@@ -109,7 +109,36 @@
       "lien_télécharger": null, 
       "image": "CrypTaux.jpg",
       "langage": ["PHP", "CSS", "Javascript", "MariaDB", "Chart.js"]
+    },
+    {
+      "nom": "Gestion du lycée",
+      "description": "Site web qui permet au personnel du lycée de se connecter pour y publier des informations à destination des élèves ou des professeurs, les absences ou les repas à la cantine. Ensuite tout est affiché sur des télévisions au sein du lycée.",
+      "date": 2022,
+      "collaboration": "Christophe Marchant et ses élèves",
+      "lien_voir": "http://194.214.233.234/tv/frontend/", 
+      "lien_télécharger": null, 
+      "image": "Vignette_projet.jpg",
+      "langage": ["HTML", "PHP", "CSS", "Javascript", "Python", "MariaDB"]
+    },
+    {
+      "nom": "Pacman",
+      "description": "Reproduction du jeu Pacman en ajoutant la possibilité de jouer à deux en multijoueur local.",
+      "date": 2022,
+      "collaboration": "",
+      "lien_voir": "", 
+      "lien_télécharger": null, 
+      "image": "Vignette_projet.jpg",
+      "langage": ["Unity", "CSharp"]
+    },
+    {
+      "nom": "Tombola",
+      "description": "Site web qui permet d'enregistrer des participants à une tombola et de pouvoir déterminer un gagnant.",
+      "date": 2022,
+      "collaboration": "Théo ECKSTEIN",
+      "lien_voir": "", 
+      "lien_télécharger": null, 
+      "image": "Vignette_projet.jpg",
+      "langage": ["HTML", "PHP", "CSS", "Javascript", "MariaDB"]
     }
-
   ]
 }

@@ -55,7 +55,7 @@
       "description": "Calculatrice qui possède les fonctionnalitées primordiales avec un design qui suit le courant du néomorphisme.",
       "date": 2021,
       "collaboration": null,
-      "lien_voir": null, 
+      "lien_voir": "http://192.168.0.43/Calculatrice/", 
       "lien_télécharger": null, 
       "image": "Calculatrice.jpg",
       "langage": ["HTML", "CSS", "Javascript"]
@@ -65,7 +65,7 @@
       "description": "Horloge qui affiche l'heure actuelle dans le navigateur grâce aux aiguilles ou à l'affichage digital.",
       "date": 2021,
       "collaboration": null,
-      "lien_voir": null, 
+      "lien_voir": "http://192.168.0.43/Horloge/", 
       "lien_télécharger": null, 
       "image": "Horloge.jpg",
       "langage": ["HTML", "CSS", "Javascript"]
@@ -105,7 +105,7 @@
       "description": "Plateforme en ligne permettant de consulter en temps réel le cours, la capitalisation boursière et les graphiques de plus de 13000 crypto-monnaies.",
       "date": 2022,
       "collaboration": "Théo ECKSTEIN",
-      "lien_voir": "http://194.214.233.234/thalex/cryptaux/connexion.php", 
+      "lien_voir": "http://192.168.0.43/Cryptaux/connexion.php", 
       "lien_télécharger": null, 
       "image": "CrypTaux.jpg",
       "langage": ["PHP", "CSS", "Javascript", "MariaDB", "Chart.js"]

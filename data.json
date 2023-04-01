@@ -92,7 +92,7 @@
     },
     {
       "nom": "Alexflix",
-      "description": "Reproduction du site Netflix qui est un pour apprendre à utiliser des API. Des films et des séries tendances sont mis en avant.",
+      "description": "Reproduction du site Netflix qui est un pour apprendre à utiliser une API. Des films et des séries tendances sont mis en avant.",
       "date": 2022,
       "collaboration": null,
       "lien_voir": "https://6alexandre7.github.io/Alexflix/", 
@@ -117,7 +117,7 @@
       "collaboration": "Christophe Marchant et ses élèves",
       "lien_voir": "http://194.214.233.234/tv/frontend/", 
       "lien_télécharger": null, 
-      "image": "Vignette_projet.jpg",
+      "image": "MarcelRudloff.jpg",
       "langage": ["HTML", "PHP", "CSS", "Javascript", "Python", "MariaDB"]
     },
     {
@@ -127,7 +127,7 @@
       "collaboration": null,
       "lien_voir": null, 
       "lien_télécharger": null, 
-      "image": "Vignette_projet.jpg",
+      "image": "PacMan.jpg",
       "langage": ["Unity", "CSharp"]
     },
     {
@@ -137,7 +137,17 @@
       "collaboration": null,
       "lien_voir": null, 
       "lien_télécharger": null, 
-      "image": "Vignette_projet.jpg",
+      "image": "Tombola.png",
+      "langage": ["HTML", "PHP", "CSS", "Javascript", "MariaDB"]
+    },
+    {
+      "nom": "MesNotes",
+      "description": "Site web qui permet d'enregistrer des notes et des documents dans le but de calculer des moyennes et de les partager avec des personnes.",
+      "date": 2023,
+      "collaboration": null,
+      "lien_voir": "http://88.120.55.214/MesNotes/connexion.php", 
+      "lien_télécharger": null, 
+      "image": "MesNotes.jpg",
       "langage": ["HTML", "PHP", "CSS", "Javascript", "MariaDB"]
     }
   ]

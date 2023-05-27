@@ -108,7 +108,7 @@
       "lien_voir": "http://192.168.0.43/Cryptaux/connexion.php", 
       "lien_télécharger": null, 
       "image": "CrypTaux.jpg",
-      "langage": ["PHP", "CSS", "Javascript", "MariaDB", "Chart.js"]
+      "langage": ["HTML", "PHP", "CSS", "Javascript", "MariaDB", "Chart.js"]
     },
     {
       "nom": "Gestion du lycée",
@@ -149,6 +149,16 @@
       "lien_télécharger": null, 
       "image": "MesNotes.jpg",
       "langage": ["HTML", "PHP", "CSS", "Javascript", "MariaDB"]
+    },
+    {
+      "nom": "Maaconduite",
+      "description": "Site web qui permet d'accompagner l'utilisateur lors de sa conduite accompagnée. Il est possible d'ajouter des expériences manuellement ou automatiquement grâce à la localisation.",
+      "date": 2023,
+      "collaboration": null,
+      "lien_voir": "https://alexandre-ehrhard.alwaysdata.net/maaconduite/", 
+      "lien_télécharger": null, 
+      "image": "Maaconduite.jpg",
+      "langage": ["HTML", "PHP", "CSS", "Javascript", "Chart.js"]
     }
   ]
 }
